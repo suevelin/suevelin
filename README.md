@@ -1,5 +1,5 @@
 - 👋 ola meu nome e **@suevelin**
-- :+1: meu email de contato e evelin.britez@escola.pr.gov.br
+- :+1: meu email de contato e [email](evelin.britez@escola.pr.gov.br)
 - 👀 eu estou enteressado em apreender novas linguagens.
 - 🌱 eu estou aprendendo a programar recentemente a linguagem javascript e scrath
 
